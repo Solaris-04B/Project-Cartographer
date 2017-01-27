@@ -1,0 +1,4 @@
+Required Software
+---
+Visual Studio Community 2015
+Visual Studio Code (Or equivalent)

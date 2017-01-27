@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Main-Essential/Maps/War-Games_Hugeass.unity
+  isLoaded: 1
+  isActive: 1
